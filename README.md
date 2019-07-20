@@ -1,0 +1,2 @@
+# Gitment_repo
+Gtiment评论仓库,Gitment评论会作为这个项目的issue
